@@ -1,1 +1,1 @@
-# Calculator
+An effective working calculator
