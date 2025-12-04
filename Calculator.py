@@ -59,4 +59,4 @@ for (text, row, col) in buttons:
         btn = tk.Button(root, text=text, font=("Arial", 20), height=2, width=5, command=cmd)
         btn.grid(row=row, column=col, padx=5, pady=5, sticky="nsew")
 
-root.mainloop()
+root.mainloop()f
